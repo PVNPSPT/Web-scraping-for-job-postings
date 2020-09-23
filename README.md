@@ -1,7 +1,7 @@
 # Scraping the monster.ca website for job postings
 ### Project description
- 1. To better manage the time on any given day, I try to find a shortcut or automate a process if applicable. 
- 2. Automated the process of job search by scraping the monster.ca website to check for a given job title and location and displays the job postings information like title, city name and an apply link.
+ 1. To better manage the time on any given day, I try to find a shortcut or automate a process if applicable. With the intention to cut the repetitve work of searching for job postings I thought to automate it.
+ 2. Automated the process of job search by scraping the monster.ca website to check for a given job title and location and displays the job postings details like title, city name and an apply link.
 
 ### Technologies used
   1. Python
