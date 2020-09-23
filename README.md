@@ -1,6 +1,7 @@
 # Scraping the monster.ca website for job postings
 ### Project description
- 1. Out of my tiredness to check the job websites for job postings and further filtering them for more relevant job titles, the thought of learning web scraping popped. With very first project I feel how easy, powerful, friendly Python is and especially **BeautifulSoup** module.
+ 1. To better manage the time on any given day, I try to find a shortcut or automate a process if applicable. 
+ 2. Automated the process of job search by scraping the monster.ca website to check for a given job title and location and displays the job postings information like title, city name and an apply link.
 
 ### Technologies used
   1. Python
